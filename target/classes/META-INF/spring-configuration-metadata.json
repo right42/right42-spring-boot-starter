@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "me.right42.PersonProperies",
+      "sourceType": "me.right42.PersonProperies"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "me.right42.PersonProperies"
+    }
+  ],
+  "hints": []
+}
